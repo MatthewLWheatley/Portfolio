@@ -1,0 +1,5 @@
+﻿  Program25_Initials.cpp
+C:\Users\Matty\Desktop\Uni Work\game engine creation work\GEC\Program25_Initials\Program25_Initials\Program25_Initials.cpp(11,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matty\Desktop\Uni Work\game engine creation work\GEC\Program25_Initials\Program25_Initials\Program25_Initials.cpp(20,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matty\Desktop\Uni Work\game engine creation work\GEC\Program25_Initials\Program25_Initials\Program25_Initials.cpp(29,19): warning C4018: '<': signed/unsigned mismatch
+  Program25_Initials.vcxproj -> C:\Users\Matty\Desktop\Uni Work\game engine creation work\GEC\Program25_Initials\Debug\Program25_Initials.exe
